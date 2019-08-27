@@ -1,0 +1,16 @@
+/* ATIVIDADE */ 
+
+bit.ly/triggers-opet
+https://drive.google.com/file/d/1LSFaHZXUTjZQzfXHO6PjrbhUseJ45eBK/view
+
+1. Alterar o trigger de log para armazenar o usuário que realizou a operação sobre a tabela e o id do registro afetado.
+
+2. Criar um trigger que atribua o salário de um usuário de acordo com os seguintes cargos:
+	Cargo1 -> 890.00
+	Cargo2 -> 1350.00
+	Cargo3 -> 2100.00
+	Cargo4 -> 3200.00
+Qualquer outro valor para cargo deve apresentar uma mensagem de erro indicando que deve ser informado um cargo válido.
+
+bit.ly/triggers-opet-solucao
+https://drive.google.com/file/d/1ocbnEiLlVYT96Eto44xnw0wgdEjvK7K6/view
